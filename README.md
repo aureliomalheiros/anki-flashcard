@@ -70,30 +70,6 @@ chmod +x build.sh
 6. **Connection Test**: Verifies AnkiConnect availability (optional)
 7. **Documentation**: Shows usage examples and project info
 
-### Build Script Output Example
-
-```
-Anki Flashcard Importer - Build Script
-=============================================
-📋 Go version: go version go1.22.2 linux/amd64
-
-🧪 Running tests...
-✓ All tests passed!
-
-🧹 Cleaning previous build...
-
-🔨 Building anki-flashcard importer...
-✓ Build successful!
-
-🔍 Binary info:
--rwxrwxr-x 1 user user 5.5M Oct 26 12:00 anki-importer
-
-🔌 Testing AnkiConnect connection...
-✓ Connection test passed!
-
-🎉 Build completed successfully!
-```
-
 ## 📖 Quick Start Guide
 
 ### Step 1: Clone and Setup
