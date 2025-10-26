@@ -1,0 +1,22 @@
+cards:
+  - front: test
+    meaning: A procedure intended to establish the quality, performance, or reliability of something
+    examples:
+      - We need to test this function
+      - The test passed successfully
+    translate: Teste
+    pronounce: test
+    lang: en
+
+  - front: hello
+    meaning: Used as a greeting or to begin a phone conversation
+    examples:
+      - Hello, how are you?
+      - Hello world!
+    translate: Olá
+    pronounce: hə-ˈlō
+    lang: en
+
+  - front: minimal
+    meaning: A card with minimal information
+    lang: en

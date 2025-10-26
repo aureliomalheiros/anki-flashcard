@@ -1,0 +1,7 @@
+cards:
+  - front: ""
+    meaning: This card has empty front
+    lang: en
+
+  - front: no-meaning
+    lang: en

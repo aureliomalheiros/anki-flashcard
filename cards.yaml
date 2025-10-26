@@ -1,0 +1,533 @@
+cards:
+  - front: craftsman
+    meaning: >
+      A skilled person who makes things by hand, especially someone who creates high-quality items using traditional methods and expertise.
+    examples:
+      - The craftsman spent weeks building a beautiful wooden table.
+      - My grandfather was a craftsman who made furniture for 40 years.
+      - She learned from a master craftsman in Italy.
+    translate: Artesão, artífice
+    pronounce: crafts-mân
+    lang: en
+    tags:
+      - noun
+      - english
+      - vocabulary
+
+  - front: resilient
+    meaning: >
+      Able to recover quickly from difficult conditions; having the ability to bounce back from adversity or adapt to challenging situations.
+    examples:
+      - The resilient community rebuilt after the natural disaster.
+      - Children are often more resilient than adults think.
+      - A resilient economy can withstand market fluctuations.
+    translate: Resiliente, resistente
+    pronounce: ri-ZIL-yənt
+    lang: en
+    tags:
+      - adjective
+      - english
+      - vocabulary
+
+  - front: serendipity
+    meaning: >
+      The occurrence and development of events by chance in a happy or beneficial way; a pleasant surprise or fortunate accident.
+    examples:
+      - Meeting my future business partner at that coffee shop was pure serendipity.
+      - The scientist's discovery was a result of serendipity rather than planned research.
+      - Sometimes serendipity leads to the best opportunities in life.
+    translate: Serendipidade, acaso feliz
+    pronounce: ser-ən-DIP-ə-tee
+    lang: en
+    tags:
+      - noun
+      - english
+      - vocabulary
+
+  - front: caught
+    meaning: >
+      Past tense of "catch"; captured or trapped; discovered doing something wrong.
+    examples:
+      - He caught the ball with one hand.
+      - She caught a cold last week.
+      - They were caught stealing.
+    translate: Pegou, capturou, prendeu
+    pronounce: cót
+    lang: en
+    tags:
+      - verb
+      - english
+      - vocabulary
+
+  - front: might
+    meaning: >
+      Past tense of "may"; used to express possibility or permission in the past; also means power or strength.
+    examples:
+      - I thought it might rain today.
+      - She might come to the party later.
+      - The army showed its might in battle.
+    translate: Poderia, talvez; força, poder
+    pronounce: mait
+    lang: en
+    tags:
+      - verb
+      - modal
+      - noun
+      - vocabulary
+
+  - front: saw
+    meaning: >
+      A tool with a sharp blade used for cutting wood or metal; also past tense of "see".
+    examples:
+      - He used a saw to cut the wooden board.
+      - I saw her at the store yesterday.
+      - The carpenter sharpened his saw.
+    translate: Serra; viu (passado de "ver")
+    pronounce: só
+    lang: en
+    tags:
+      - noun
+      - verb
+      - tool
+      - vocabulary
+
+  - front: gauge
+    meaning: >
+      An instrument that measures or displays something; to estimate or judge; the thickness or size of something.
+    examples:
+      - Check the fuel gauge before driving.
+      - It's hard to gauge his reaction.
+      - Use a pressure gauge to measure the tire.
+    translate: Medidor, calibre; medir, avaliar
+    pronounce: gêidj
+    lang: en
+    tags:
+      - noun
+      - verb
+      - measurement
+      - vocabulary
+
+  - front: chisel
+    meaning: >
+      A metal tool with a sharp edge used for cutting or shaping wood, stone, or metal.
+    examples:
+      - The sculptor used a chisel to carve the statue.
+      - He chiseled the wood carefully.
+      - A sharp chisel makes cleaner cuts.
+    translate: Formão, cinzel
+    pronounce: tchí-zôl
+    lang: en
+    tags:
+      - noun
+      - tool
+      - vocabulary
+
+  - front: cozy
+    meaning: >
+      Warm, comfortable, and pleasant; giving a feeling of comfort and relaxation.
+    examples:
+      - The room felt cozy with the fireplace lit.
+      - She wrapped herself in a cozy blanket.
+      - They found a cozy café downtown.
+    translate: Aconchegante, confortável
+    pronounce: côu-zi
+    lang: en
+    tags:
+      - adjective
+      - vocabulary
+
+  - front: glue
+    meaning: >
+      A sticky substance used to join things together; to stick things together using glue.
+    examples:
+      - Use glue to attach the pieces of paper.
+      - The glue needs 24 hours to dry.
+      - She glued the broken vase back together.
+    translate: Cola; colar
+    pronounce: gluu
+    lang: en
+    tags:
+      - noun
+      - verb
+      - vocabulary
+
+  - front: matter
+    meaning: >
+      A subject or situation; physical substance; to be important or significant.
+    examples:
+      - This is a serious matter.
+      - What's the matter with you?
+      - Your opinion really matters to me.
+    translate: Assunto, matéria; importar
+    pronounce: má-têr
+    lang: en
+    tags:
+      - noun
+      - verb
+      - vocabulary
+
+  - front: wild
+    meaning: >
+      Living in nature, not controlled by humans; uncontrolled, excited, or crazy; not cultivated.
+    examples:
+      - Wild animals live in the forest.
+      - The party got wild after midnight.
+      - She has wild, curly hair.
+    translate: Selvagem, silvestre; louco, descontrolado
+    pronounce: uaild
+    lang: en
+    tags:
+      - adjective
+      - vocabulary
+
+  - front: woodwork
+    meaning: >
+      The wooden parts of a building or room; the craft of making things from wood; carpentry.
+    examples:
+      - The woodwork in this house is beautiful.
+      - He's skilled at woodwork and furniture making.
+      - They painted the woodwork white.
+    translate: Carpintaria, marcenaria; trabalho em madeira
+    pronounce: wúd-wôrk
+    lang: en
+    tags:
+      - noun
+      - craft
+      - vocabulary
+
+  - front: raised
+    meaning: >
+      Past tense of "raise"; lifted up; brought up or cared for; increased.
+    examples:
+      - She raised her hand to ask a question.
+      - He was raised by his grandparents.
+      - They raised the price last month.
+    translate: Levantado, criado, aumentado
+    pronounce: rêizd
+    lang: en
+    tags:
+      - verb
+      - past tense
+      - vocabulary
+
+  - front: forgive
+    meaning: >
+      To stop feeling angry or resentful toward someone for an offense or mistake; to pardon.
+    examples:
+      - Please forgive me for being late.
+      - It's hard to forgive such betrayal.
+      - She forgave him after he apologized.
+    translate: Perdoar
+    pronounce: fôr-guív
+    lang: en
+    tags:
+      - verb
+      - vocabulary
+
+  - front: radon
+    meaning: >
+      A radioactive gas that occurs naturally and can be harmful to health when it accumulates indoors.
+    examples:
+      - Test your home for radon levels.
+      - Radon is a leading cause of lung cancer.
+      - The basement had high radon concentration.
+    translate: Radônio (gás radioativo)
+    pronounce: rêi-don
+    lang: en
+    tags:
+      - noun
+      - science
+      - vocabulary
+
+  - front: couple
+    meaning: >
+      Two people in a romantic relationship; two or a few of something; to join or connect things.
+    examples:
+      - The couple got married last year.
+      - I need a couple of minutes to finish.
+      - Wait a couple of days before calling.
+    translate: Casal; par, alguns
+    pronounce: câ-pôl
+    lang: en
+    tags:
+      - noun
+      - vocabulary
+
+  - front: giant
+    meaning: >
+      An extremely large person or thing; a very large company or organization; huge in size.
+    examples:
+      - The company is a giant in the tech industry.
+      - He's a giant of a man, over 7 feet tall.
+      - They built a giant statue in the park.
+    translate: Gigante; enorme
+    pronounce: djái-ânt
+    lang: en
+    tags:
+      - noun
+      - adjective
+      - vocabulary
+
+  - front: caught
+    meaning: >
+      Past tense of "catch"; captured or trapped; discovered doing something wrong.
+    examples:
+      - He caught the ball with one hand.
+      - She caught a cold last week.
+      - They were caught stealing.
+    translate: Pegou, capturou, prendeu
+    pronounce: cót
+    lang: en
+    tags:
+      - verb
+      - past tense
+      - vocabulary
+
+  - front: albeit
+    meaning: >
+      Although; even though; used to introduce a contrast or concession.
+    examples:
+      - The project was successful, albeit expensive.
+      - He agreed to help, albeit reluctantly.
+      - It's a good solution, albeit not perfect.
+    translate: Embora, ainda que
+    pronounce: ól-bí-it
+    lang: en
+    tags:
+      - conjunction
+      - vocabulary
+
+  - front: craftsman
+    meaning: >
+      A skilled person who makes things by hand, especially someone who creates high-quality items using traditional methods and expertise.
+    examples:
+      - The craftsman spent weeks building a beautiful wooden table.
+      - My grandfather was a craftsman who made furniture for 40 years.
+      - She learned from a master craftsman in Italy.
+    translate: Artesão, artífice
+    pronounce: crafts-mân
+    lang: en
+    tags:
+      - noun
+      - occupation
+      - vocabulary
+
+  - front: mallets
+    meaning: >
+      A type of hammer with a large head, usually made of wood, rubber, or plastic, used for hitting things without damaging them.
+    examples:
+      - The carpenter used a wooden mallet to join the pieces together.
+      - He hit the chisel gently with a rubber mallet.
+      - The musician played the xylophone with small mallets.
+    translate: Malhos, marretas (de madeira ou borracha)
+    pronounce: má-lêts
+    lang: en
+    tags:
+      - noun
+      - tool
+      - vocabulary
+
+  - front: clamps
+    meaning: >
+      Tools or devices used to hold things tightly together, usually while gluing, cutting, or working on them.
+    examples:
+      - Use clamps to hold the wood pieces while the glue dries.
+      - The mechanic used metal clamps to secure the hose.
+      - She attached clamps to keep the paper in place.
+    translate: Grampos, braçadeiras, presilhas
+    pronounce: clãmps
+    lang: en
+    tags:
+      - noun
+      - tool
+      - vocabulary
+
+  - front: sharpened
+    meaning: >
+      Made sharp or sharper; the past tense of sharpen (to make a blade, point, or edge more sharp).
+    examples:
+      - He sharpened his knife before cutting the meat.
+      - The pencil needs to be sharpened.
+      - She sharpened her skills through practice.
+    translate: Afiado, aguçado
+    pronounce: shár-pênd
+    lang: en
+    tags:
+      - verb
+      - past tense
+      - vocabulary
+
+  - front: held
+    meaning: >
+      Past tense of "hold"; to have grasped, carried, or kept something in your hands or arms; to have organized an event.
+    examples:
+      - She held the baby carefully.
+      - The meeting was held yesterday.
+      - He held the door open for me.
+    translate: Segurou, realizou, manteve
+    pronounce: héld
+    lang: en
+    tags:
+      - verb
+      - past tense
+      - vocabulary
+
+  - front: drawback
+    meaning: >
+      A disadvantage or problem that makes something less attractive or effective.
+    examples:
+      - The only drawback of this apartment is the noise.
+      - High cost is a major drawback of this solution.
+      - The plan has some drawbacks we need to consider.
+    translate: Desvantagem, inconveniente
+    pronounce: dró-bák
+    lang: en
+    tags:
+      - noun
+      - vocabulary
+
+  - front: telemetry
+    meaning: >
+      The process of automatically measuring and transmitting data from remote sources to receiving equipment for monitoring.
+    examples:
+      - The spacecraft sends telemetry data back to Earth.
+      - We use telemetry to monitor server performance.
+      - Medical telemetry tracks patient vital signs remotely.
+    translate: Telemetria
+    pronounce: tê-lé-mê-tri
+    lang: en
+    tags:
+      - noun
+      - technology
+      - vocabulary
+
+  - front: pristine
+    meaning: >
+      In perfect condition; completely clean, fresh, and untouched; like new.
+    examples:
+      - The car is in pristine condition.
+      - They found a pristine beach with no tourists.
+      - Keep the documents in pristine shape.
+    translate: Pristino, imaculado, perfeito
+    pronounce: prís-tiin
+    lang: en
+    tags:
+      - adjective
+      - vocabulary
+
+  - front: middle-age
+    meaning: >
+      The period of life between youth and old age, typically from about 45 to 65 years old.
+    examples:
+      - He started running marathons in middle-age.
+      - Middle-age can be a time of reflection and change.
+      - Many people experience a career shift during middle-age.
+    translate: Meia-idade
+    pronounce: mí-dôl-êidj
+    lang: en
+    tags:
+      - noun
+      - vocabulary
+
+  - front: prohibitive
+    meaning: >
+      So expensive or difficult that it prevents people from doing or buying something; something that forbids or restricts.
+    examples:
+      - The cost of the course was prohibitive for most students.
+      - Prohibitive regulations stopped the project.
+      - Housing prices in the city are prohibitive.
+    translate: Proibitivo, impeditivo
+    pronounce: prôu-í-bi-tiv
+    lang: en
+    tags:
+      - adjective
+      - vocabulary
+
+  - front: demoralize
+    meaning: >
+      To make someone lose confidence, hope, or courage; to cause someone to feel discouraged.
+    examples:
+      - The constant criticism began to demoralize the team.
+      - Don't let one failure demoralize you.
+      - The loss demoralized the players.
+    translate: Desmoralizar, desanimar
+    pronounce: di-mó-râ-laiz
+    lang: en
+    tags:
+      - verb
+      - vocabulary
+
+  - front: lovingly
+    meaning: >
+      In a way that shows love, care, and affection; with tenderness.
+    examples:
+      - She lovingly prepared his favorite meal.
+      - The old house was lovingly restored.
+      - He lovingly tucked his daughter into bed.
+    translate: Amorosamente, carinhosamente
+    pronounce: lâ-ving-li
+    lang: en
+    tags:
+      - adverb
+      - vocabulary
+
+  - front: such
+    meaning: >
+      Of this or that kind; used to emphasize the degree or extent of something; like this or similar to this.
+    examples:
+      - I've never seen such a beautiful sunset.
+      - There's no such thing as a free lunch.
+      - Such behavior is unacceptable.
+    translate: Tal, tão, semelhante
+    pronounce: sâtch
+    lang: en
+    tags:
+      - determiner
+      - adjective
+      - vocabulary
+
+  - front: ingrain
+    meaning: >
+      To firmly fix an idea, habit, or attitude in someone's mind so it becomes a permanent part of their character.
+    examples:
+      - Good habits should be ingrained from childhood.
+      - The values were ingrained in the company culture.
+      - Years of training ingrained discipline in him.
+    translate: Enraizar, incutir profundamente
+    pronounce: in-grêin
+    lang: en
+    tags:
+      - verb
+      - vocabulary
+
+  - front: deeply
+    meaning: >
+      To a great depth or degree; profoundly; intensely; far down or far in.
+    examples:
+      - He was deeply affected by the news.
+      - Breathe deeply and relax.
+      - She cares deeply about the environment.
+    translate: Profundamente, intensamente
+    pronounce: díip-li
+    lang: en
+    tags:
+      - adverb
+      - vocabulary
+
+  - front: drill
+    meaning: >
+      A tool or machine used for making holes in hard materials; also means to practice something repeatedly to learn it well, or a training exercise.
+    examples:
+      - Use an electric drill to make holes in the wall.
+      - Students need to drill vocabulary words every day.
+      - The firefighters conducted a safety drill.
+    translate: Furadeira, broca; treinar repetidamente
+    pronounce: drîl
+    lang: en
+    tags:
+      - noun
+      - verb
+      - tool
+      - vocabulary
+    
+
