@@ -529,5 +529,154 @@ cards:
       - verb
       - tool
       - vocabulary
-    
 
+  - front: scared
+    meaning: >
+      Feeling frightened or afraid of something that might hurt you or cause danger.
+    examples:
+      - I was scared when I heard a strange noise at night.
+      - Don't be scared, it's just a small spider.
+      - She felt scared before her first job interview.
+    translate: Assustado, com medo
+    pronounce: skérd
+    lang: en
+    tags:
+      - adjective
+      - english
+      - vocabulary
+
+  - front: fence
+    meaning: >
+      A structure made of wood, metal, or wire that separates two areas of land or marks a boundary around a property, garden, or field.
+    examples:
+      - We need to paint the wooden fence in our backyard.
+      - The farmer built a fence to keep the sheep inside the field.
+      - There's a tall fence around the school playground.
+    translate: Cerca, vedação
+    pronounce: fens
+    lang: en
+    tags:
+      - noun
+      - english
+      - vocabulary
+
+  - front: poisonous
+    meaning: >
+      Something that contains poison and can cause illness, injury, or death if eaten, touched, or absorbed into the body.
+    examples:
+      - Some mushrooms are poisonous and should never be eaten.
+      - That snake is poisonous, so stay away from it.
+      - We removed all poisonous plants from the garden.
+    translate: Venenoso, tóxico
+    pronounce: pói-zô-nâs
+    lang: en
+    tags:
+      - adjective
+      - english
+      - vocabulary
+
+  - front: glad
+    meaning: >
+      Feeling happy, pleased, or satisfied about something that happened or a situation.
+    examples:
+      - I'm glad you could come to my birthday party.
+      - She was glad to hear the good news.
+      - We're glad that the weather is nice today.
+    translate: Feliz, contente, satisfeito
+    pronounce: glád
+    lang: en
+    tags:
+      - adjective
+      - english
+      - vocabulary
+
+  - front: sense
+    meaning: >
+      The ability to understand, perceive, or be aware of something; also refers to the five physical senses (sight, hearing, smell, taste, touch).
+    examples:
+      - I have a sense that something good will happen today.
+      - Dogs have an excellent sense of smell.
+      - It makes sense to save money for the future.
+    translate: Sentido, senso, percepção
+    pronounce: sens
+    lang: en
+    tags:
+      - noun
+      - english
+      - vocabulary
+
+  - front: surround
+    meaning: >
+      To be all around something or someone on every side; to encircle or enclose completely.
+    examples:
+      - The police surrounded the building.
+      - Trees surround our house on all sides.
+      - She loves to surround herself with positive people.
+    translate: Cercar, rodear, circundar
+    pronounce: sâ-ráund
+    lang: en
+    tags:
+      - verb
+      - english
+      - vocabulary
+
+  - front: instead
+    meaning: >
+      Used to show that you choose one thing or action rather than another; as an alternative or substitute.
+    examples:
+      - I don't want coffee, I'll have tea instead.
+      - Instead of driving, we decided to walk.
+      - He stayed home instead of going to the party.
+    translate: Em vez de, ao invés de
+    pronounce: in-stéd
+    lang: en
+    tags:
+      - adverb
+      - english
+      - vocabulary
+
+  - front: cripples
+    meaning: >
+      Third person singular form of 'cripple' - to cause severe damage or harm that makes someone or something unable to function properly or move normally.
+    examples:
+      - The disease cripples thousands of people every year.
+      - Heavy debt cripples many small businesses.
+      - The injury cripples his ability to play sports.
+    translate: Paralisa, aleija, incapacita
+    pronounce: krí-pâls
+    lang: en
+    tags:
+      - verb
+      - english
+      - vocabulary
+
+  - front: suck
+    meaning: >
+      To pull liquid, air, or something into your mouth by making your lips tight and using the muscles of your mouth; informally, to be very bad or unpleasant.
+    examples:
+      - The baby likes to suck on his bottle.
+      - The vacuum cleaner sucks up all the dirt.
+      - This movie really sucks (informal - this movie is terrible).
+    translate: Sugar, chupar; (informal) ser ruim
+    pronounce: sâk
+    lang: en
+    tags:
+      - verb
+      - english
+      - vocabulary
+
+  - front: won't be able
+    meaning: >
+      A contraction meaning "will not be able" - used to express that someone or something will lack the capacity, capability, or possibility to do something in the future.
+    examples:
+      - I won't be able to attend the meeting tomorrow because I'm sick.
+      - She won't be able to finish the project on time without help.
+      - They won't be able to travel this year due to budget constraints.
+    translate: Não será capaz, não poderá, não conseguirá
+    pronounce: uôunt bi êi-bâl
+    lang: en
+    tags:
+      - expression
+      - modal verb
+      - english
+      - vocabulary
