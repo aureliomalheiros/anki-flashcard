@@ -680,3 +680,199 @@ cards:
       - modal verb
       - english
       - vocabulary
+
+  - front: be fond of
+    meaning: >
+      To like someone or something in a gentle or affectionate way.
+    examples:
+      - She’s very fond of her cat and treats it like family.
+      - I’m quite fond of classical music.
+      - He’s fond of telling stories about his travels.
+    translate: gostar de, ter carinho por
+    pronounce: bí fónd óv
+    lang: en
+    tags:
+      - expression
+      - english
+      - vocabulary
+
+  - front: be into
+    meaning: >
+      To be very interested or involved in something; to like something a lot.
+    examples:
+      - I’m really into science fiction movies.
+      - She’s into yoga and healthy living.
+      - They’re into playing video games on weekends.
+    translate: gostar de, estar interessado em
+    pronounce: bí ín-tu
+    lang: en
+    tags:
+      - expression
+      - english
+      - vocabulary
+
+  - front: have a penchant for
+    meaning: >
+      To have a strong liking or preference for something.
+    examples:
+      - He has a penchant for expensive cars.
+      - She has a penchant for collecting vintage jewelry.
+      - I have a penchant for spicy food.
+    translate: ter uma predileção por, gostar muito de
+    pronounce: rév a pén-tchant fór
+    lang: en
+    tags:
+      - expression
+      - english
+      - vocabulary
+
+  - front: have a soft spot for
+    meaning: >
+      To feel affection or sympathy for someone or something, often in a special way.
+    examples:
+      - She has a soft spot for stray animals.
+      - I’ve always had a soft spot for that old café.
+      - He has a soft spot for his childhood friends.
+    translate: ter um carinho especial por, ter fraqueza por
+    pronounce: rév a sóft spót fór
+    lang: en
+    tags:
+      - expression
+      - english
+      - vocabulary
+
+  - front: adore
+    meaning: >
+      To love and respect someone or something deeply; to like very much.
+    examples:
+      - She adores her little sister and always takes care of her.
+      - I absolutely adore Italian food.
+      - Many fans adore this singer for his kindness.
+    translate: adorar, amar muito
+    pronounce: á-dór
+    lang: en
+    tags:
+      - verb
+      - english
+      - vocabulary
+
+  - front: be crazy about
+    meaning: >
+      To like someone or something a lot; to be very enthusiastic or excited about it.
+    examples:
+      - He's crazy about football and watches every match.
+      - My kids are crazy about chocolate ice cream.
+      - She's crazy about her new phone.
+    translate: ser louco por, gostar muito de
+    pronounce: bí crêi-zi abáut
+    lang: en
+    tags:
+      - expression
+      - english
+      - vocabulary
+
+  - front: despise
+    meaning: >
+      To strongly dislike and have no respect for someone or something.
+    examples:
+      - I despise people who lie all the time.
+      - She despises being told what to do.
+      - He despised the idea of cheating to win.
+    translate: desprezar, odiar
+    pronounce: dis-páiz
+    lang: en
+    tags:
+      - verb
+      - english
+      - vocabulary
+
+  - front: detest
+    meaning: >
+      To hate someone or something very much.
+    examples:
+      - I detest waking up early on weekends.
+      - She detests the smell of cigarettes.
+      - He detests doing paperwork.
+    translate: odiar, detestar
+    pronounce: di-tést
+    lang: en
+    tags:
+      - verb
+      - english
+      - vocabulary
+
+  - front: have no taste for
+    meaning: >
+      To not enjoy or have interest in something.
+    examples:
+      - I have no taste for horror movies.
+      - She has no taste for spicy food.
+      - He has no taste for politics.
+    translate: não gostar de, não ter interesse por
+    pronounce: rév nôu teist fór
+    lang: en
+    tags:
+      - expression
+      - english
+      - vocabulary
+
+  - front: it is not my cup of tea
+    meaning: >
+      Used to say that something is not what you like or enjoy.
+    examples:
+      - Fishing is not my cup of tea.
+      - Horror movies aren’t really my cup of tea.
+      - Classical music is nice, but it’s not my cup of tea.
+    translate: não é a minha praia, não é o que eu gosto
+    pronounce: it is nót mái kâp óv tí
+    lang: en
+    tags:
+      - idiom
+      - english
+      - vocabulary
+
+  - front: loathe
+    meaning: >
+      To feel intense dislike or disgust for someone or something.
+    examples:
+      - I loathe getting stuck in traffic.
+      - She loathes the cold weather.
+      - He loathes dishonesty in any form.
+    translate: odiar, abominar
+    pronounce: lôudh
+    lang: en
+    tags:
+      - verb
+      - english
+      - vocabulary
+
+  - front: put somebody off
+    meaning: >
+      To make someone dislike something or lose interest in it.
+    examples:
+      - The bad smell put me off my food.
+      - His rude behavior really put her off.
+      - The teacher’s attitude put many students off the subject.
+    translate: desanimar, causar repulsa, fazer alguém perder o interesse
+    pronounce: pút sâmbádi óf
+    lang: en
+    tags:
+      - phrasal verb
+      - english
+      - vocabulary
+
+  - front: I mean
+    meaning: >
+      An expression used to clarify, correct, or add more explanation to something you just said. Also used when you want to rephrase or emphasize your point.
+    examples:
+      - The movie was okay, I mean, it wasn't great but not terrible either.
+      - I mean, what I'm trying to say is that we need more time.
+      - He's not bad at his job, I mean, he tries his best.
+    translate: Quer dizer, quero dizer, tipo assim
+    pronounce: ai min
+    lang: en
+    tags:
+      - expression
+      - filler phrase
+      - english
+      - vocabulary
