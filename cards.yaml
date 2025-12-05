@@ -1109,3 +1109,1098 @@ cards:
       - verb
       - english
       - vocabulary
+  - front: apple
+    meaning: >
+      A round fruit with red, green, or yellow skin and white flesh inside. One of the most common fruits eaten worldwide.
+    examples:
+      - I eat an apple every day.
+      - She made an apple pie for dessert.
+      - Would you like a green or red apple?
+    translate: Maçã
+    pronounce: á-pôl
+    lang: en
+    tags:
+      - noun
+      - food
+      - fruit
+      - english
+      - vocabulary
+
+  - front: banana
+    meaning: >
+      A long curved fruit with yellow skin and soft sweet white flesh inside. Grows in tropical regions in bunches.
+    examples:
+      - Bananas are rich in potassium.
+      - He put a banana in his smoothie.
+      - The monkey ate three bananas.
+    translate: Banana
+    pronounce: bâ-ná-nâ
+    lang: en
+    tags:
+      - noun
+      - food
+      - fruit
+      - english
+      - vocabulary
+
+  - front: orange
+    meaning: >
+      A round citrus fruit with thick orange skin and sweet or slightly sour juicy flesh divided into segments.
+    examples:
+      - I drink orange juice every morning.
+      - Can you peel this orange for me?
+      - Oranges are high in vitamin C.
+    translate: Laranja
+    pronounce: ó-rendj
+    lang: en
+    tags:
+      - noun
+      - food
+      - fruit
+      - english
+      - vocabulary
+
+  - front: strawberry
+    meaning: >
+      A small soft red fruit with tiny seeds on the outside and a sweet flavor. Often used in desserts.
+    examples:
+      - I love strawberries with cream.
+      - We picked fresh strawberries at the farm.
+      - She made strawberry jam.
+    translate: Morango
+    pronounce: stró-be-ri
+    lang: en
+    tags:
+      - noun
+      - food
+      - fruit
+      - english
+      - vocabulary
+
+  - front: grape
+    meaning: >
+      A small round fruit that grows in clusters on vines, can be green, red, or purple. Used to make wine and eaten fresh.
+    examples:
+      - I bought some grapes at the market.
+      - These grapes are very sweet.
+      - Wine is made from grapes.
+    translate: Uva
+    pronounce: gréip
+    lang: en
+    tags:
+      - noun
+      - food
+      - fruit
+      - english
+      - vocabulary
+
+  - front: watermelon
+    meaning: >
+      A large round fruit with hard green skin and sweet juicy red or pink flesh with black seeds. Very refreshing in hot weather.
+    examples:
+      - Watermelon is perfect for summer.
+      - We ate cold watermelon at the beach.
+      - This watermelon is so juicy!
+    translate: Melancia
+    pronounce: uó-târ-mé-lân
+    lang: en
+    tags:
+      - noun
+      - food
+      - fruit
+      - english
+      - vocabulary
+
+  - front: pineapple
+    meaning: >
+      A large tropical fruit with rough brown skin and spiky leaves on top, with sweet yellow flesh inside.
+    examples:
+      - I love pineapple on pizza.
+      - Cut the pineapple into slices.
+      - Pineapples grow in Hawaii.
+    translate: Abacaxi
+    pronounce: pai-ná-pôl
+    lang: en
+    tags:
+      - noun
+      - food
+      - fruit
+      - english
+      - vocabulary
+
+  - front: mango
+    meaning: >
+      A tropical fruit with smooth skin that can be green, yellow, or red, and sweet orange flesh inside with a large flat seed.
+    examples:
+      - This mango is ripe and delicious.
+      - I made a mango smoothie.
+      - Mangoes are my favorite tropical fruit.
+    translate: Manga
+    pronounce: mán-gôu
+    lang: en
+    tags:
+      - noun
+      - food
+      - fruit
+      - english
+      - vocabulary
+
+  - front: lemon
+    meaning: >
+      A small oval citrus fruit with yellow skin and very sour juice. Commonly used in drinks and cooking.
+    examples:
+      - Add some lemon to your tea.
+      - I squeezed a lemon over the fish.
+      - Lemons are very acidic.
+    translate: Limão (siciliano)
+    pronounce: lé-mân
+    lang: en
+    tags:
+      - noun
+      - food
+      - fruit
+      - english
+      - vocabulary
+
+  - front: peach
+    meaning: >
+      A round fruit with soft fuzzy skin (yellow or pink) and sweet juicy flesh with a large pit in the center.
+    examples:
+      - These peaches are so sweet!
+      - I bought fresh peaches at the farmers market.
+      - She made peach cobbler for dessert.
+    translate: Pêssego
+    pronounce: pítch
+    lang: en
+    tags:
+      - noun
+      - food
+      - fruit
+      - english
+      - vocabulary
+
+  - front: pear
+    meaning: >
+      A fruit with green or yellow skin that is round at the bottom and narrows toward the top, with sweet white flesh.
+    examples:
+      - Pears are delicious when ripe.
+      - I packed a pear in my lunch.
+      - This pear is still too hard to eat.
+    translate: Pera
+    pronounce: pér
+    lang: en
+    tags:
+      - noun
+      - food
+      - fruit
+      - english
+      - vocabulary
+
+  - front: cherry
+    meaning: >
+      A small round fruit with smooth red or dark purple skin, sweet or sour flesh, and a hard pit inside.
+    examples:
+      - I love cherries in the summer.
+      - She put a cherry on top of the cake.
+      - We picked cherries from the tree.
+    translate: Cereja
+    pronounce: tché-ri
+    lang: en
+    tags:
+      - noun
+      - food
+      - fruit
+      - english
+      - vocabulary
+  - front: thumb
+    meaning: >
+      The short thick finger on the side of your hand, set apart from the other four fingers. It helps you grip and hold things.
+    examples:
+      - I hurt my thumb with the hammer.
+      - She gave a thumbs up sign.
+      - He sucked his thumb as a baby.
+    translate: Polegar
+    pronounce: thâm
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: index finger
+    meaning: >
+      The finger next to your thumb, the first finger. Also called pointer finger because it's commonly used to point at things.
+    examples:
+      - Point with your index finger.
+      - I cut my index finger while cooking.
+      - She pressed the button with her index finger.
+    translate: Dedo indicador
+    pronounce: ín-deks fín-gâr
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: middle finger
+    meaning: >
+      The longest finger in the middle of your hand, between the index finger and ring finger.
+    examples:
+      - My middle finger is longer than the others.
+      - I wear a ring on my middle finger.
+      - The middle finger is the tallest finger.
+    translate: Dedo médio
+    pronounce: mí-dôl fín-gâr
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: ring finger
+    meaning: >
+      The fourth finger, located between the middle finger and pinky. Traditionally where wedding rings are worn.
+    examples:
+      - She wears her wedding ring on her ring finger.
+      - My ring finger is swollen.
+      - The ring finger is next to the pinky.
+    translate: Dedo anelar
+    pronounce: ring fín-gâr
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: pinky
+    meaning: >
+      The smallest finger on the outside of your hand, the fifth finger. Also called little finger.
+    examples:
+      - I broke my pinky playing basketball.
+      - She lifted her pinky while drinking tea.
+      - My pinky is very small.
+    translate: Dedo mínimo, mindinho
+    pronounce: pín-ki
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+  - front: head
+    meaning: >
+      The upper part of the body that contains the brain, eyes, ears, nose, and mouth.
+    examples:
+      - I hit my head on the door.
+      - She nodded her head in agreement.
+      - My head hurts today.
+    translate: Cabeça
+    pronounce: réd
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: face
+    meaning: >
+      The front part of the head where the eyes, nose, and mouth are located.
+    examples:
+      - She has a beautiful face.
+      - Wash your face before bed.
+      - I recognized his face immediately.
+    translate: Rosto, cara
+    pronounce: féis
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: eye
+    meaning: >
+      The organ of sight, located in your head. You have two eyes that allow you to see.
+    examples:
+      - Close your eyes and make a wish.
+      - She has blue eyes.
+      - My eyes are tired from reading.
+    translate: Olho
+    pronounce: ái
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: ear
+    meaning: >
+      The organ on each side of your head that you use for hearing sounds.
+    examples:
+      - I can't hear you in my left ear.
+      - She whispered in my ear.
+      - My ears are cold.
+    translate: Orelha, ouvido
+    pronounce: ír
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: nose
+    meaning: >
+      The part of your face that you use for breathing and smelling, located above your mouth.
+    examples:
+      - My nose is running because I have a cold.
+      - He broke his nose playing football.
+      - I can smell the flowers with my nose.
+    translate: Nariz
+    pronounce: nôuz
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: mouth
+    meaning: >
+      The opening in your face that you use for eating, drinking, speaking, and breathing.
+    examples:
+      - Open your mouth and say "ah".
+      - Don't talk with your mouth full.
+      - She covered her mouth when she yawned.
+    translate: Boca
+    pronounce: máuth
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: tooth/teeth
+    meaning: >
+      The hard white objects in your mouth used for biting and chewing food. Tooth is singular, teeth is plural.
+    examples:
+      - Brush your teeth twice a day.
+      - I lost a tooth when I was six.
+      - My teeth are sensitive to cold.
+    translate: Dente/dentes
+    pronounce: túth/títh
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: tongue
+    meaning: >
+      The soft movable organ in your mouth used for tasting, swallowing, and speaking.
+    examples:
+      - I burned my tongue on hot coffee.
+      - Stick out your tongue and say "ah".
+      - The tongue helps you taste food.
+    translate: Língua
+    pronounce: tâng
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: neck
+    meaning: >
+      The part of your body that connects your head to your shoulders and body.
+    examples:
+      - My neck hurts from sleeping wrong.
+      - She wore a scarf around her neck.
+      - Giraffes have very long necks.
+    translate: Pescoço
+    pronounce: nék
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: shoulder
+    meaning: >
+      The joint where your arm connects to your body, the upper part of your back and chest.
+    examples:
+      - He carried the bag on his shoulder.
+      - My shoulders are sore from exercise.
+      - She tapped me on the shoulder.
+    translate: Ombro
+    pronounce: shôul-dâr
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: arm
+    meaning: >
+      The upper limb of your body from the shoulder to the hand, used for reaching and holding.
+    examples:
+      - I broke my arm skateboarding.
+      - Raise your arms above your head.
+      - She folded her arms across her chest.
+    translate: Braço
+    pronounce: árm
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: elbow
+    meaning: >
+      The joint in the middle of your arm that allows it to bend.
+    examples:
+      - I bumped my elbow on the table.
+      - Rest your elbows on the desk.
+      - My elbow hurts when I bend it.
+    translate: Cotovelo
+    pronounce: él-bou
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: wrist
+    meaning: >
+      The joint that connects your hand to your arm, allowing your hand to move.
+    examples:
+      - I wear a watch on my wrist.
+      - She sprained her wrist playing tennis.
+      - Rotate your wrists in circles.
+    translate: Pulso
+    pronounce: ríst
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: hand
+    meaning: >
+      The part at the end of your arm with fingers and thumb, used for holding and touching things.
+    examples:
+      - Wash your hands before eating.
+      - Hold my hand when we cross the street.
+      - I write with my right hand.
+    translate: Mão
+    pronounce: rénd
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: chest
+    meaning: >
+      The front upper part of your body between your neck and stomach, where your heart and lungs are.
+    examples:
+      - He has pain in his chest.
+      - Take a deep breath and expand your chest.
+      - The doctor listened to my chest with a stethoscope.
+    translate: Peito, tórax
+    pronounce: tchést
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: back
+    meaning: >
+      The rear surface of your body from the shoulders to the bottom, opposite to the chest and stomach.
+    examples:
+      - My back hurts from sitting all day.
+      - She scratched my back.
+      - He slept on his back.
+    translate: Costas
+    pronounce: bák
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: stomach
+    meaning: >
+      The front part of your body below your chest where food is digested. Also called belly or abdomen.
+    examples:
+      - My stomach hurts after eating too much.
+      - I sleep on my stomach.
+      - He has a stomach ache.
+    translate: Estômago, barriga
+    pronounce: stâ-mâk
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: leg
+    meaning: >
+      One of the two long parts of your body that you use for walking and standing, from hip to foot.
+    examples:
+      - I broke my leg skiing.
+      - Cross your legs when you sit.
+      - My legs are tired from running.
+    translate: Perna
+    pronounce: lég
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: knee
+    meaning: >
+      The joint in the middle of your leg that allows it to bend.
+    examples:
+      - I hurt my knee playing soccer.
+      - Get down on your knees.
+      - My knees are weak after the workout.
+    translate: Joelho
+    pronounce: ní
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: ankle
+    meaning: >
+      The joint that connects your foot to your leg, allowing your foot to move.
+    examples:
+      - I twisted my ankle running.
+      - She wears bracelets on her ankles.
+      - My ankle is swollen.
+    translate: Tornozelo
+    pronounce: én-kôl
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: foot/feet
+    meaning: >
+      The part at the end of your leg that you stand on. Foot is singular, feet is plural.
+    examples:
+      - My feet hurt from walking all day.
+      - He kicked the ball with his right foot.
+      - Take off your shoes and rest your feet.
+    translate: Pé/pés
+    pronounce: fút/fít
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: toe
+    meaning: >
+      One of the five small parts at the end of your foot, similar to fingers on your hand.
+    examples:
+      - I stubbed my toe on the table.
+      - My big toe hurts.
+      - She painted her toenails red.
+    translate: Dedo do pé
+    pronounce: tôu
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: skin
+    meaning: >
+      The outer layer that covers your entire body, protecting what's inside.
+    examples:
+      - Protect your skin from the sun.
+      - She has smooth skin.
+      - My skin is dry in winter.
+    translate: Pele
+    pronounce: skín
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+
+  - front: hair
+    meaning: >
+      The thin threads that grow on your head and other parts of your body.
+    examples:
+      - She has long blonde hair.
+      - I need to cut my hair.
+      - He's losing his hair.
+    translate: Cabelo, pelo
+    pronounce: rér
+    lang: en
+    tags:
+      - noun
+      - body part
+      - english
+      - vocabulary
+#JIUJITSU
+  - front: mat
+    meaning: >
+      The padded surface where martial arts training and competitions take place. Provides cushioning for falls and throws.
+    examples:
+      - Step onto the mat and bow.
+      - We train on the mat every day.
+      - Clean the mats after practice.
+    translate: Tatame
+    pronounce: mát
+    lang: en
+    tags:
+      - noun
+      - jiu jitsu
+      - martial arts
+      - english
+      - vocabulary
+
+  - front: gi
+    meaning: >
+      The traditional uniform worn in Brazilian Jiu Jitsu, consisting of a jacket, pants, and belt. Also called kimono.
+    examples:
+      - I bought a new gi for training.
+      - Wash your gi after every class.
+      - He wears a white gi.
+    translate: Kimono
+    pronounce: guí
+    lang: en
+    tags:
+      - noun
+      - jiu jitsu
+      - martial arts
+      - english
+      - vocabulary
+
+  - front: belt
+    meaning: >
+      A colored band worn around the waist that indicates rank and skill level in martial arts.
+    examples:
+      - I earned my blue belt last year.
+      - Tie your belt properly before class.
+      - He's a black belt in jiu jitsu.
+    translate: Faixa
+    pronounce: bélt
+    lang: en
+    tags:
+      - noun
+      - jiu jitsu
+      - martial arts
+      - english
+      - vocabulary
+
+  - front: guard
+    meaning: >
+      A fundamental position in jiu jitsu where one person is on their back controlling the opponent with their legs.
+    examples:
+      - Pull guard and work your attacks.
+      - He passed my guard easily.
+      - Open guard is my favorite position.
+    translate: Guarda
+    pronounce: gárd
+    lang: en
+    tags:
+      - noun
+      - jiu jitsu
+      - technique
+      - english
+      - vocabulary
+
+  - front: mount
+    meaning: >
+      A dominant position where you sit on top of your opponent's chest or stomach.
+    examples:
+      - I achieved mount and went for the armbar.
+      - Escape from mount is difficult.
+      - He held mount for two minutes.
+    translate: Montada
+    pronounce: máunt
+    lang: en
+    tags:
+      - noun
+      - jiu jitsu
+      - technique
+      - english
+      - vocabulary
+
+  - front: side control
+    meaning: >
+      A dominant position where you control your opponent from the side, chest to chest.
+    examples:
+      - Maintain side control and look for submissions.
+      - I escaped from side control.
+      - Side control is a strong position.
+    translate: Cem quilos, controle lateral
+    pronounce: sáid kân-trôul
+    lang: en
+    tags:
+      - noun
+      - jiu jitsu
+      - technique
+      - english
+      - vocabulary
+
+  - front: back control
+    meaning: >
+      A dominant position where you control your opponent from behind, usually with hooks in.
+    examples:
+      - Take back control and sink the choke.
+      - He got my back and I had to defend.
+      - Back control is the most dominant position.
+    translate: Pegada nas costas, controle das costas
+    pronounce: bák kân-trôul
+    lang: en
+    tags:
+      - noun
+      - jiu jitsu
+      - technique
+      - english
+      - vocabulary
+
+  - front: sweep
+    meaning: >
+      A technique used to reverse position from bottom to top, taking your opponent down.
+    examples:
+      - I hit a beautiful sweep from half guard.
+      - Practice your sweeps from guard.
+      - That scissor sweep was perfect.
+    translate: Raspagem
+    pronounce: suíp
+    lang: en
+    tags:
+      - noun
+      - verb
+      - jiu jitsu
+      - technique
+      - english
+      - vocabulary
+
+  - front: takedown
+    meaning: >
+      A technique used to bring your opponent from standing to the ground.
+    examples:
+      - He scored with a double leg takedown.
+      - Work on your takedowns for competition.
+      - That was a clean takedown.
+    translate: Queda
+    pronounce: téik-dáun
+    lang: en
+    tags:
+      - noun
+      - jiu jitsu
+      - technique
+      - english
+      - vocabulary
+
+  - front: submission
+    meaning: >
+      A technique that forces your opponent to surrender (tap out) due to a joint lock or choke.
+    examples:
+      - I won by submission in the second round.
+      - He's very good at submissions.
+      - That armbar was a clean submission.
+    translate: Finalização
+    pronounce: sâb-mí-shân
+    lang: en
+    tags:
+      - noun
+      - jiu jitsu
+      - technique
+      - english
+      - vocabulary
+
+  - front: tap
+    meaning: >
+      To signal surrender by tapping your opponent or the mat, indicating you give up.
+    examples:
+      - Tap early to avoid injury.
+      - He refused to tap and got hurt.
+      - I had to tap to that triangle choke.
+    translate: Bater (desistir)
+    pronounce: táp
+    lang: en
+    tags:
+      - verb
+      - noun
+      - jiu jitsu
+      - english
+      - vocabulary
+
+  - front: choke
+    meaning: >
+      A submission technique that restricts blood flow or breathing to force a tap.
+    examples:
+      - The rear naked choke is very effective.
+      - I caught him in a guillotine choke.
+      - Chokes are safer than joint locks.
+    translate: Estrangulamento
+    pronounce: tchôuk
+    lang: en
+    tags:
+      - noun
+      - verb
+      - jiu jitsu
+      - technique
+      - english
+      - vocabulary
+
+  - front: armbar
+    meaning: >
+      A submission technique that hyperextends the elbow joint to force a tap.
+    examples:
+      - I finished with an armbar from mount.
+      - He escaped my armbar attempt.
+      - The armbar is a basic submission.
+    translate: Chave de braço
+    pronounce: árm-bar
+    lang: en
+    tags:
+      - noun
+      - jiu jitsu
+      - technique
+      - english
+      - vocabulary
+
+  - front: triangle
+    meaning: >
+      A submission using your legs to create a triangle shape around your opponent's neck and arm.
+    examples:
+      - I locked in a tight triangle from guard.
+      - The triangle choke is my favorite.
+      - He defended the triangle well.
+    translate: Triângulo
+    pronounce: trái-én-gôl
+    lang: en
+    tags:
+      - noun
+      - jiu jitsu
+      - technique
+      - english
+      - vocabulary
+
+  - front: pass
+    meaning: >
+      To move past your opponent's guard and achieve a dominant position.
+    examples:
+      - I need to pass his guard first.
+      - He passed my guard with a knee slice.
+      - Guard passing requires patience.
+    translate: Passagem (de guarda)
+    pronounce: pás
+    lang: en
+    tags:
+      - verb
+      - noun
+      - jiu jitsu
+      - technique
+      - english
+      - vocabulary
+
+  - front: roll
+    meaning: >
+      To practice jiu jitsu by sparring with a training partner. Also called rolling.
+    examples:
+      - Let's roll for five minutes.
+      - I rolled with a black belt today.
+      - We roll at the end of every class.
+    translate: Rolar, treinar (sparring)
+    pronounce: rôul
+    lang: en
+    tags:
+      - verb
+      - noun
+      - jiu jitsu
+      - english
+      - vocabulary
+
+  - front: drill
+    meaning: >
+      To practice a technique repeatedly with a partner to improve muscle memory.
+    examples:
+      - We drilled armbars for 20 minutes.
+      - Drilling is essential for improvement.
+      - Let's drill this new sweep.
+    translate: Treinar repetições
+    pronounce: dríl
+    lang: en
+    tags:
+      - verb
+      - noun
+      - jiu jitsu
+      - english
+      - vocabulary
+
+  - front: grip
+    meaning: >
+      How you hold your opponent's gi or body to control them and execute techniques.
+    examples:
+      - Get a strong grip on his collar.
+      - Break his grips before you pass.
+      - Good grips are essential in gi jiu jitsu.
+    translate: Pegada, grip
+    pronounce: gríp
+    lang: en
+    tags:
+      - noun
+      - verb
+      - jiu jitsu
+      - technique
+      - english
+      - vocabulary
+
+  - front: hook
+    meaning: >
+      Using your foot/leg to control your opponent, especially from back control.
+    examples:
+      - Insert your hooks when you take the back.
+      - He couldn't get his hooks in.
+      - Both hooks are in, now attack.
+    translate: Gancho
+    pronounce: rúk
+    lang: en
+    tags:
+      - noun
+      - jiu jitsu
+      - technique
+      - english
+      - vocabulary
+
+  - front: escape
+    meaning: >
+      A technique used to get out of a bad position or dangerous situation.
+    examples:
+      - I need to learn better mount escapes.
+      - That was a clean escape from side control.
+      - Practice your escapes every day.
+    translate: Escape
+    pronounce: ês-kéip
+    lang: en
+    tags:
+      - noun
+      - verb
+      - jiu jitsu
+      - technique
+      - english
+      - vocabulary
+
+  - front: defense
+    meaning: >
+      Protecting yourself from attacks, submissions, or position advances.
+    examples:
+      - His choke defense is excellent.
+      - Work on your submission defense.
+      - Good defense prevents injuries.
+    translate: Defesa
+    pronounce: di-féns
+    lang: en
+    tags:
+      - noun
+      - jiu jitsu
+      - technique
+      - english
+      - vocabulary
+
+  - front: sparring
+    meaning: >
+      Practice fighting with a partner using technique but with control. Same as rolling in jiu jitsu.
+    examples:
+      - We do sparring at the end of class.
+      - Light sparring is good for beginners.
+      - I prefer sparring over drilling.
+    translate: Sparring, luta treino
+    pronounce: spár-ring
+    lang: en
+    tags:
+      - noun
+      - jiu jitsu
+      - martial arts
+      - english
+      - vocabulary
+
+  - front: coach
+    meaning: >
+      The teacher or instructor who trains and guides students in jiu jitsu.
+    examples:
+      - My coach is a third-degree black belt.
+      - Listen to your coach's advice.
+      - The coach demonstrated the technique.
+    translate: Treinador, professor
+    pronounce: kôutch
+    lang: en
+    tags:
+      - noun
+      - jiu jitsu
+      - martial arts
+      - english
+      - vocabulary
+
+  - front: opponent
+    meaning: >
+      The person you are training or competing against.
+    examples:
+      - Respect your opponent always.
+      - My opponent was very strong.
+      - Study your opponent before the match.
+    translate: Oponente, adversário
+    pronounce: â-pô-nânt
+    lang: en
+    tags:
+      - noun
+      - jiu jitsu
+      - martial arts
+      - english
+      - vocabulary
+
+  - front: partner
+    meaning: >
+      The person you train with during drills and practice.
+    examples:
+      - Find a partner for this drill.
+      - My training partner helps me improve.
+      - Thank your partner after rolling.
+    translate: Parceiro
+    pronounce: párt-nâr
+    lang: en
+    tags:
+      - noun
+      - jiu jitsu
+      - martial arts
+      - english
+      - vocabulary
