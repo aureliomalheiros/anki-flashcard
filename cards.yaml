@@ -876,3 +876,236 @@ cards:
       - filler phrase
       - english
       - vocabulary
+  - front: what
+    meaning: >
+      Used to ask for information about something, to specify or identify things, or to express surprise.
+    examples:
+      - What is your name?
+      - What time is it?
+      - What do you want for dinner?
+    translate: O que, qual
+    pronounce: uát
+    lang: en
+    tags:
+      - question word
+      - pronoun
+      - english
+      - vocabulary
+
+  - front: when
+    meaning: >
+      Used to ask about time or the occasion of something happening.
+    examples:
+      - When is your birthday?
+      - When did you arrive?
+      - When will the meeting start?
+    translate: Quando
+    pronounce: uén
+    lang: en
+    tags:
+      - question word
+      - adverb
+      - english
+      - vocabulary
+
+  - front: where
+    meaning: >
+      Used to ask about place or position.
+    examples:
+      - Where do you live?
+      - Where is the bathroom?
+      - Where are you going?
+    translate: Onde, aonde
+    pronounce: uér
+    lang: en
+    tags:
+      - question word
+      - adverb
+      - english
+      - vocabulary
+
+  - front: who
+    meaning: >
+      Used to ask about which person or people, or to give information about a person.
+    examples:
+      - Who is that man?
+      - Who called me?
+      - Who wants pizza?
+    translate: Quem
+    pronounce: hú
+    lang: en
+    tags:
+      - question word
+      - pronoun
+      - english
+      - vocabulary
+
+  - front: why
+    meaning: >
+      Used to ask about the reason or purpose of something.
+    examples:
+      - Why are you late?
+      - Why did she leave?
+      - Why is the sky blue?
+    translate: Por que, por quê
+    pronounce: uái
+    lang: en
+    tags:
+      - question word
+      - adverb
+      - english
+      - vocabulary
+
+  - front: which
+    meaning: >
+      Used to ask about choice between two or more options, or to specify one or more people or things from a group.
+    examples:
+      - Which color do you prefer?
+      - Which book is yours?
+      - Which way should we go?
+    translate: Qual, quais
+    pronounce: uítch
+    lang: en
+    tags:
+      - question word
+      - pronoun
+      - determiner
+      - english
+      - vocabulary
+
+  - front: how
+    meaning: >
+      Used to ask about the manner, condition, or way something happens or is done. Also used to ask about quantity or degree.
+    examples:
+      - How are you?
+      - How do you spell your name?
+      - How much does it cost?
+    translate: Como, quanto
+    pronounce: rráu
+    lang: en
+    tags:
+      - question word
+      - adverb
+      - english
+      - vocabulary
+
+  - front: whose
+    meaning: >
+      Used to ask about possession or ownership, to find out who something belongs to.
+    examples:
+      - Whose car is this?
+      - Whose turn is it?
+      - Whose book did you borrow?
+    translate: De quem
+    pronounce: húz
+    lang: en
+    tags:
+      - question word
+      - pronoun
+      - english
+      - vocabulary
+  - front: this
+    meaning: >
+      Used to identify a specific person or thing close at hand or being indicated or experienced. Refers to something near in distance or time.
+    examples:
+      - This is my new phone.
+      - I love this song.
+      - This morning I went for a run.
+    translate: Este, esta, isto, esse, essa, isso
+    pronounce: dís
+    lang: en
+    tags:
+      - pronoun
+      - determiner
+      - english
+      - vocabulary
+
+  - front: those
+    meaning: >
+      Used to identify specific people or things at a distance or not close at hand. Plural form of "that". Refers to multiple items far away or previously mentioned.
+    examples:
+      - Those are my friends over there.
+      - I don't like those shoes.
+      - Those were the good old days.
+    translate: Aqueles, aquelas, esses, essas
+    pronounce: dôuz
+    lang: en
+    tags:
+      - pronoun
+      - determiner
+      - english
+      - vocabulary
+  - front: these
+    meaning: >
+      Used to identify specific people or things that are near in distance or time, or to refer to multiple items previously mentioned. Plural form of "this".
+    examples:
+      - These books are mine.
+      - I bought these shoes yesterday.
+      - These are the best cookies I've ever tasted.
+    translate: Estes, estas, esses, essas
+    pronounce: díz
+    lang: en
+    tags:
+      - pronoun
+      - determiner
+      - english
+      - vocabulary
+  - front: that
+    meaning: >
+      Used to identify a specific person or thing observed or heard by the speaker, or to refer to something previously mentioned or known.
+    examples:
+      - That is my book on the table.
+      - I don't like that idea.
+      - That was the best movie I've ever seen.
+    translate: Aquele, aquela, aquilo, esse, essa, isso, que
+    pronounce: dát
+    lang: en
+    tags:
+      - pronoun
+      - determiner
+      - english
+      - vocabulary
+  - front: currently
+    meaning: >
+      At the present time; right now; at this moment.
+    examples:
+      - I am currently studying English.
+      - She is currently working at a tech company.
+      - The system is currently unavailable.
+    translate: Atualmente, no momento
+    pronounce: kâ-rent-li
+    lang: en
+    tags:
+      - adverb
+      - english
+      - vocabulary
+  - front: become
+    meaning: >
+      To begin to be something, to grow or develop into something, or to change into a particular state or condition.
+    examples:
+      - She wants to become a doctor.
+      - The weather became cold suddenly.
+      - He became angry when he heard the news.
+    translate: Tornar-se, ficar, virar
+    pronounce: bi-kâm
+    lang: en
+    tags:
+      - verb
+      - irregular verb
+      - english
+      - vocabulary
+  - front: trick
+    meaning: >
+      A clever action intended to deceive someone, a special skill or technique, or to deceive someone in a clever way. Can also mean a particular way of doing something skillfully.
+    examples:
+      - That was a dirty trick!
+      - The magician showed us an amazing trick.
+      - He tricked me into giving him money.
+    translate: Truque, pegadinha, enganar, trapacear
+    pronounce: trik
+    lang: en
+    tags:
+      - noun
+      - verb
+      - english
+      - vocabulary
