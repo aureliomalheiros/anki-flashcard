@@ -2204,3 +2204,31 @@ cards:
       - martial arts
       - english
       - vocabulary
+  - front: tame
+    meaning: >
+      An animal that is not wild or dangerous, usually because it has been trained to live with humans or is comfortable around people.
+    examples:
+      - The rabbit is very tame and likes to be petted.
+      - We have tame chickens in our backyard.
+      - This bird is so tame it eats from my hand.
+    translate: Domesticado, manso, dócil
+    pronounce: teim
+    lang: en
+    tags:
+      - adjective
+      - english
+      - vocabulary
+  - front: wild
+    meaning: >
+      Living in nature, not controlled or trained by humans. Animals or plants that grow naturally without human care or domestication.
+    examples:
+      - Lions are wild animals that live in Africa.
+      - We saw wild flowers growing along the road.
+      - Be careful, there are wild bears in this forest.
+    translate: Selvagem, silvestre
+    pronounce: uáild
+    lang: en
+    tags:
+      - adjective
+      - english
+      - vocabulary
